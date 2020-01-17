@@ -15,7 +15,11 @@
     "autoprefixer": "^9.7.4",
     "cross-env": "^6.0.3",
     "laravel-mix": "^5.0.1",
-    "tailwindcss": "^1.1.4"
+    "laravel-mix-pug": "^0.3.0",
+    "laravel-mix-twig-to-html": "^1.2.0",
+    "pug": "^2.0.4",
+    "tailwindcss": "^1.1.4",
+    "webpack-livereload-plugin": "^2.2.0"
   },
   "devDependencies": {
     "resolve-url-loader": "^3.1.0",
