@@ -17,7 +17,7 @@
     "laravel-mix": "^5.0.1",
     "laravel-mix-pug": "^0.3.0",
     "laravel-mix-twig-to-html": "^1.2.0",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "tailwindcss": "^1.1.4",
     "webpack-livereload-plugin": "^2.2.0"
   },
